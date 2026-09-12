@@ -129,8 +129,8 @@ This project is for educational purposes, demonstrating knowledge representation
 
 *"Most coding examples in ML involve algorithms written in Python and R. I was intrigued to see how predicate logic and proofs can also be used in designing secure AI systems."* - W. Saqib
 
-## Module acknowledgement
+## Module context
 
-Completed for **Knowledge Representation and Reasoning** as part of my University of Leeds MSc Artificial Intelligence studies. Thank you to [Dr Shabbar Naqvi](https://www.linkedin.com/in/dr-shabbar-naqvi-a740b19/) for the teaching and guidance.
+Completed for **Knowledge Representation and Reasoning** as part of my University of Leeds MSc Artificial Intelligence studies.
 
 [Full portfolio](https://saqibsafdar.com/projects/) · [GitHub profile](https://github.com/saqibsafdar11)
